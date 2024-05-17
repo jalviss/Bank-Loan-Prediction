@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the completed tasks for two projects: a loan approval prediction application using a Back Propagation Neural Network (BPNN). The projects were completed as part of a deep learning course focuses on different aspects of neural network implementation and optimization.
 
-## Task Group 1: Loan Approval Prediction (BPNN)
+## Task: Loan Approval Prediction (BPNN)
 
 ### Project Description
 This project aims to create an application that determines whether a loan application should be accepted or rejected. The dataset used for this task contains various features relevant to loan applications.
